@@ -1,4 +1,4 @@
-# California-Housing-Prices
+
 # California Housing Prices Analysis
 
 This Jupyter Notebook provides an analysis of the California housing prices dataset. The analysis includes data preprocessing, normalization, K-means clustering, and visualization of the results.
